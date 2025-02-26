@@ -1,0 +1,57 @@
+# Byte-compiled / cached files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+bin/
+include/
+lib/
+lib64/
+pyvenv.cfg
+share/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# Logs and debugging
+*.log
+debug.log
+error.log
+
+# Environment variables
+.env
+.env.local
+*.secret
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Test coverage reports
+.coverage
+*.cover
+htmlcov/
+
+# MyPy
+.mypy_cache/
+dmypy.json
+.pyre/
+
+# PyInstaller
+*.spec
+
+# Others
+.DS_Store
+Thumbs.db
+*.bak
